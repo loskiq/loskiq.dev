@@ -1,4 +1,4 @@
-const pgpButton = document.querySelector("[data-pgp-button]");
+﻿const pgpButton = document.querySelector("[data-pgp-button]");
 const pgpPanel = document.querySelector("#pgp-panel");
 const copyButton = document.querySelector("[data-copy-pgp]");
 const pgpKey = document.querySelector("[data-pgp-key]");
